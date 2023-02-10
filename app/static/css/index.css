@@ -1,0 +1,5 @@
+.centered{
+    /* important sobre escribe a otros estilos */
+    text-align: center !important;
+    vertical-align: middle;
+}
